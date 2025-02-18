@@ -2,7 +2,10 @@
 
 ## About
 
-About your template
+This template is designed for a multiple app created using Wails with Vue + VueRouter + TailwindCSS + MaterialDesignIcons.
+
+To use this template,
+```wails init -n your-project -t https://github.com/ricwtk/wails-app-template```
 
 ## Live Development
 
